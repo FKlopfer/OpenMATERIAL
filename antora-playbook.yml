@@ -17,15 +17,11 @@ content:
     start_path: .antora
     tags: [v*,V*]
   - url: https://github.com/FKlopfer/OpenMATERIAL.git
-    branches: [main]
-    tags: [v*]
-    start_path: .antora
-  - url: https://github.com/FKlopfer/OpenMATERIAL.git
     branches: [geometry-publication]
     tags: [v*]
     start_path: .antora
-# - url: .
-#   start_path: .antora
+  - url: .
+    start_path: .antora
 # end::content[]
 
 ui:
