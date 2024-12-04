@@ -20,6 +20,7 @@ content:
     branches: [geometry-publication]
     tags: [v*]
     start_path: .antora
+    edit_url: 'https://github.com/FKlopfer/OpenMATERIAL/tree/geometry-publication/-/blob/{refname}/{path}'
   - url: .
     start_path: .antora
 # end::content[]
