@@ -10,22 +10,22 @@ urls: # Creates a redirect for the newest version to the link "latest"
   latest_version_segment_strategy: redirect:to
   latest_version_segment: latest
 
-
 # tag::content[]
 content:
   sources:
- - url: https://code.asam.net/common/asam-terminology.git
-   start_path: .antora
-   tags: [v*,V*]
+  - url: https://code.asam.net/common/asam-terminology.git
+    start_path: .antora
+    tags: [v*,V*]
+  - url: .
+    start_path: .antora
+# end::content[]
+
+
 # - url: https://github.com/FKlopfer/OpenMATERIAL.git
 #   branches: [geometry-publication]
 #   tags: [v*]
 #   start_path: .antora
 #   edit_url: 'https://github.com/FKlopfer/OpenMATERIAL/tree/geometry-publication/-/blob/{refname}/{path}'
-  - url: .
-    start_path: .antora
-# end::content[]
-
 
 
 ui:
