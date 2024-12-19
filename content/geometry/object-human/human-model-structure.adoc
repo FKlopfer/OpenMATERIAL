@@ -6,7 +6,7 @@
 ----
 legend
 Skeleton
-|_ [[../geometry/object-human/human-index.html#_root_bone_t Root_Bone (T)]] geometry/object-human/human-index.html#_root_bone_t
+|_ [[../geometry/object-human/human-index.html#_root_bone_t Root_Bone (T)]]
   |_ [[../geometry/object-human/human-index.html#_hip_t Hip (T)]]
     |_ [[../geometry/object-human/human-index.html#_lower_spine_t Lower_Spine (T)]]
       |_ [[../geometry/object-human/human-index.html#_upper_spine_t Upper_Spine (T)]]
